@@ -3,7 +3,7 @@
 <br />
 <br />
 
-<h1>NightCode</h1>
+<h1>AgentCode</h1>
 
 <p>A terminal-based AI coding agent.</p>
 
